@@ -1,0 +1,22 @@
+*
+{
+    font-family: sans-serif;
+}
+
+html,body
+{
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+body
+{
+    /*background-color: lightgray;*/
+    background-image: url("/DPS/RESOURCES/warehouse-robots.jpg");
+    background-size: 100% 100%;
+    overflow-y: auto;
+}
+
+
